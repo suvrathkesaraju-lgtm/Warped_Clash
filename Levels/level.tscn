@@ -121,6 +121,6 @@ tile_map_data = PackedByteArray("AAAAACQAAAAPAAgAAAAAACUAAAAPAAgAAAAAACYAAAAPAAg
 tile_set = SubResource("TileSet_lmq4j")
 
 [node name="Player" parent="." unique_id=1752866289 instance=ExtResource("2_gtnvv")]
-position = Vector2(34, 566)
+position = Vector2(27, 577)
 
 [node name="Camera2D" type="Camera2D" parent="Player" unique_id=801838954]
